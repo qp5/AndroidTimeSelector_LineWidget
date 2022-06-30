@@ -10,4 +10,6 @@ Day select | Time/Hr select
 --- | ---
 <img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/git_app_DayWidget.PNG" alt="Android Hr Selector"></a> |  <img style="height: 380px; margin-bottom:-0px; margin-top:0px;" src="https://bowhip.org/img/git_app_HrWidget _.PNG" alt="Android Hr Selector"></a>
 
+//note
+<!--note2-->
 
