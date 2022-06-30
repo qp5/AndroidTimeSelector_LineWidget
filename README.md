@@ -14,7 +14,7 @@ Day select | Time/Hr select
 
 
 <!--
-HERE IS START OF INSTRUCTIONS PLEASE REVIEW AND EDIT   ____________________________________________________________________
+HERE IS START OF INSTRUCTIONS PLEASE REVIEW AND EDIT   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 ## Table of Contents
 1. [Setup](#setup)
