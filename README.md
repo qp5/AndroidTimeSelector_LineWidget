@@ -6,7 +6,7 @@ Widget Development of this is currently backlogged.<br>
 <br><br>
 
 **Illustrations**<br>
-Note: new code is 'Line Widget' to quick select (see above). Here below are widetes it interaatts with.
+Above 'Line Widget' Extends Androids TimePickers here below. Line Widget provids quick select access.
 
 Day select | Time/Hr select
 --- | ---
