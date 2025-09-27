@@ -5,7 +5,7 @@ This repository contains widget illustration only.<br>
 Widget Development of this is currently backlogged.<br>
 <br><br>
 
-**Illustrations**
+**Illustrations**<br>
 Note: new code is 'Line Widget' to quick select (see above). Here below are widetes it interaatts with.
 
 Day select | Time/Hr select
